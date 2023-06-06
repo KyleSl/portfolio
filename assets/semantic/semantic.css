@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+}
+
+.d-none {
+    display: none;
+}
+
+.d-flex {
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+}
+
+header h1 {
+    width: 25%;
+}
